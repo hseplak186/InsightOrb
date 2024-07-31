@@ -3,20 +3,20 @@
 InsightOrb is a modern and responsive news web application that delivers the latest news from various categories. It is designed to provide users with a seamless and engaging experience while keeping them informed about current events.
 
 ## Tech-Stack
-1.**Front-End:** Consist of HTML,CSS,JS
-2.**API:** News API (for fetching news articles)
+1.**Front-End:** Consist of HTML,CSS,JS <br>
+2.**API:** News API (for fetching news articles) 
 
 ## Features
-1.**Real-time News Updates:** Get the latest news updates in real-time from various reliable sources.
-2.**Category-Based Browsing:** Browse news articles by categories such as Technology, Sports, Entertainment, Business, and more.
-3.**Search Functionality:** Easily search for news articles by keywords.
-4.**Responsive Design:** Optimized for all devices, providing a consistent user experience on desktops, tablets, and mobile phones.
-5.**User-Friendly Interface:** Clean and intuitive interface for easy navigation.
+1.**Real-time News Updates:** Get the latest news updates in real-time from various reliable sources.<br>
+2.**Category-Based Browsing:** Browse news articles by categories such as Technology, Sports, Entertainment, Business, and more.<br>
+3.**Search Functionality:** Easily search for news articles by keywords.<br>
+4.**Responsive Design:** Optimized for all devices, providing a consistent user experience on desktops, tablets, and mobile phones.<br>
+5.**User-Friendly Interface:** Clean and intuitive interface for easy navigation.<br>
 
 ## Usage
-1.**Home Page:** Displays the latest news articles.
-2.**Category Pages:** Filter news articles by selecting categories from the navigation menu.
-3.**Search:** Use the search bar to find specific news articles.
+1.**Home Page:** Displays the latest news articles.<br>
+2.**Category Pages:** Filter news articles by selecting categories from the navigation menu.<br>
+3.**Search:** Use the search bar to find specific news articles.<br>
 4.**Article Details:** Click on an article to read its full content.
 
 ## Contributing <br>
